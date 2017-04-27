@@ -1,2 +1,2 @@
-consult(tie.pl).
+consult('tie.pl').
 solve.

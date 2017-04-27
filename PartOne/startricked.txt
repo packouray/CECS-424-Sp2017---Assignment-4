@@ -1,2 +1,2 @@
-consult(startricked.pl).
+consult('startricked.pl').
 solve.

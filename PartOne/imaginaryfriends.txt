@@ -1,2 +1,2 @@
-consult(imaginaryfriends.pl).
+consult('imaginaryfriends.pl').
 solve.
